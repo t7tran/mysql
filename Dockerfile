@@ -1,4 +1,4 @@
-FROM mysql:5.7.43
+FROM mysql:5.7.44
 
 COPY ./rootfs /
 
